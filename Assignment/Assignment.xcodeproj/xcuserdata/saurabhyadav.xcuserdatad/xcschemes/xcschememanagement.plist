@@ -9,6 +9,29 @@
 			<key>orderHint</key>
 			<integer>5</integer>
 		</dict>
+		<key>Assignment2.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>6</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>76D9992521CD07B4009F2234</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>76D9993921CD07B5009F2234</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>76D9994421CD07B5009F2234</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 	</dict>
 </dict>
 </plist>
